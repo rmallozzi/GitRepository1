@@ -53,7 +53,7 @@ def main():
     #access last three elements
     print('show last three elements')
     print('last three elements:\n{}'.format(aone[len(aone)-3:]))
-    #asubend = aone()
+
 
 
 

@@ -11,26 +11,38 @@ ClassName=TProjectFilesNode
 
 [Project\ChildNodes\Node0\ChildNodes\Node0]
 ClassName=TProjectFileNode
-FileName=$[Project-Path]BasicCommands1.py
+FileName=$[Project-Path]BasicClass.py
 
 [Project\ChildNodes\Node0\ChildNodes\Node1]
 ClassName=TProjectFileNode
-FileName=$[Project-Path]HelloWorld.py
+FileName=$[Project-Path]BasicCommands1.py
 
 [Project\ChildNodes\Node0\ChildNodes\Node2]
 ClassName=TProjectFileNode
-FileName=$[Project-Path]NumpyArrays.py
+FileName=$[Project-Path]ClassInstantiation.py
 
 [Project\ChildNodes\Node0\ChildNodes\Node3]
 ClassName=TProjectFileNode
-FileName=$[Project-Path]NumpyBasic.py
+FileName=$[Project-Path]DerivedClass.py
 
 [Project\ChildNodes\Node0\ChildNodes\Node4]
+ClassName=TProjectFileNode
+FileName=$[Project-Path]HelloWorld.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node5]
+ClassName=TProjectFileNode
+FileName=$[Project-Path]NumpyArrays.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node6]
+ClassName=TProjectFileNode
+FileName=$[Project-Path]NumpyBasic.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node7]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]OutputFormatting.py
 
 [Project\ChildNodes\Node0\ChildNodes]
-Count=5
+Count=8
 
 [Project\ChildNodes\Node1]
 ClassName=TProjectRunConfiguationsNode
