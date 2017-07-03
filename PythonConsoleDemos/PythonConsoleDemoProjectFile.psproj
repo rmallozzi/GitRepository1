@@ -10,39 +10,57 @@ ShowFileExtensions=FALSE
 ClassName=TProjectFilesNode
 
 [Project\ChildNodes\Node0\ChildNodes\Node0]
+ClassName=TProjectFolderNode
+Name=PyQtDemos
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes\Node0]
+ClassName=TProjectFileNode
+FileName=C:\Users\Richard\Google Drive\MyProgramming\GitRepository1\PyQtDemos\HelloWorld.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node0\ChildNodes]
+Count=1
+
+[Project\ChildNodes\Node0\ChildNodes\Node1]
+ClassName=TProjectFolderNode
+Name=PythonConsoleDemos
+
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node0]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]BasicClass.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node1]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node1]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]BasicCommands1.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node2]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node2]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]ClassInstantiation.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node3]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node3]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]DerivedClass.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node4]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node4]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]HelloWorld.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node5]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node5]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]NumpyArrays.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node6]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node6]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]NumpyBasic.py
 
-[Project\ChildNodes\Node0\ChildNodes\Node7]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes\Node7]
 ClassName=TProjectFileNode
 FileName=$[Project-Path]OutputFormatting.py
 
-[Project\ChildNodes\Node0\ChildNodes]
+[Project\ChildNodes\Node0\ChildNodes\Node1\ChildNodes]
 Count=8
+
+[Project\ChildNodes\Node0\ChildNodes]
+Count=2
 
 [Project\ChildNodes\Node1]
 ClassName=TProjectRunConfiguationsNode
