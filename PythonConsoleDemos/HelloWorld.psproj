@@ -9,6 +9,21 @@ ShowFileExtensions=FALSE
 [Project\ChildNodes\Node0]
 ClassName=TProjectFilesNode
 
+[Project\ChildNodes\Node0\ChildNodes\Node0]
+ClassName=TProjectFileNode
+FileName=$[Project-Path]BasicCommands1.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node1]
+ClassName=TProjectFileNode
+FileName=$[Project-Path]HelloWorld.py
+
+[Project\ChildNodes\Node0\ChildNodes\Node2]
+ClassName=TProjectFileNode
+FileName=$[Project-Path]OutputFormatting.py
+
+[Project\ChildNodes\Node0\ChildNodes]
+Count=3
+
 [Project\ChildNodes\Node1]
 ClassName=TProjectRunConfiguationsNode
 
